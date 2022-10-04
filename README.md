@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ikhsan121
-- 🌱 I’m currently learning python
+- 🌱 Python enthusiast
 - 📫 How to reach me ikhsanarif211@gmail.com
 
 <!---
