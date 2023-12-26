@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ikhsan121
 - 🌱 Python enthusiast
+- Theoretical Physics
 - 📫 How to reach me ikhsanarif211@gmail.com
 
 <!---
